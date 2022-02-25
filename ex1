@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Mariana Stoica</title>
+</head>
+
+<body>
+<h1 align='center'>Mariana Stoica</h1>
+<h2 align='center'>Bioinformatics, BBK</h2>
+
+<p align='right'>
+<font face='Courier,monospace'>mstoic01@student.bbk.ac.uk</font>
+</p>
+
+<h3>Address</h3>
+<img src='3hfl.gif' alt='3hfl' align='right' />
+<p>Department of Bioinformatics <br />
+Birbeck College London<br />
+Malet Street<br />
+
+London<br />
+WC1E 7XH
+</p>
+
+<h3>Interests</h3>
+
+<p>
+My research focusses on bioinformatics.
+</p>
+
+<h3>Links</h3>
+<ul>
+<li><a href='http://www.wikipedia.org.uk/'>http://www.wikipedia.org.uk/</a>
+    My pages</li>
+<li><a href='http://www.wikipedia.org.uk/'>http://www.wikipedia.org.uk/</a>
+    
+</ul>
+</body>
+</html>
